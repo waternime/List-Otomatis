@@ -11,3 +11,4 @@ List otomatis pakai label untuk blogger, buat yang suka ngasih daftar untuk seti
 
 ## Preview
 ![Cuplikan layar 2025-07-01 173304](https://github.com/user-attachments/assets/3437e6bb-42ee-4c78-938e-24ee23d87111)
+Demo : <a href="https://waternime-testing-code.blogspot.com/2025/07/list-otomatis-by-label.html">List Otomatis By: Label</a>
